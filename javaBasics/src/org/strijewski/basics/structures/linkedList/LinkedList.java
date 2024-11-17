@@ -1,4 +1,4 @@
-package org.strijewski.basics.linkedList;
+package org.strijewski.basics.structures.linkedList;
 
 public class LinkedList<T> {
     private Node<T> head; // Head of the list

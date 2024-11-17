@@ -1,4 +1,4 @@
-package org.strijewski.basics.linkedList;
+package org.strijewski.basics.structures.linkedList;
 
 class Node<T> {
     T data;
